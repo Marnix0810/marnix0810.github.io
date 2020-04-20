@@ -15,7 +15,7 @@ Well, I am an
 
 ## Where to find me?
 
-Okay, my social media life has 
+Okay, my social media life has increased a lot and I have been in a sort of search of where to express my life, for me Twitter has become..
 
 
 
