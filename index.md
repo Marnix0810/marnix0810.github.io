@@ -9,7 +9,7 @@ Hello and welcome to my portfolio site, my name is Marnix Bloeiman, I am a (open
 
 ## About me
 
-Well, I am an 
+Well, I am sixteen-year-old, I have the aspergers syndrome but do not let it ruin 
 
 
 
