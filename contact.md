@@ -18,5 +18,5 @@ description: You are welcome to contact me! Just fill in the form on this page.
         <textarea type="text" name="message" ROWS="20" COLS="50" required></textarea><br>
             <BUTTON TYPE="reset">Cancel message</BUTTON>
                 <BUTTON TYPE="submit">Send message</BUTTON>
-    </FORM>
+</form>
 </html>
