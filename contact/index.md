@@ -15,7 +15,7 @@ description: You are welcome to contact me! Just fill in the form on this page.
 <label><p>Subject of your message:</p>
 <input type="text" name="subject"/></label><br>
 <label><p>Your message:</p>
-<textarea type="text" name="message" ROWS="20" COLS="50" required></textarea></label>
+<textarea type="text" name="message" ROWS="20" COLS="50" required></textarea></label><br></br>
 <BUTTON TYPE="reset">Cancel message</BUTTON>
 <BUTTON TYPE="submit">Send message</BUTTON>
 </form>
