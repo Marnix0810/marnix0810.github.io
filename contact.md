@@ -4,7 +4,9 @@ description: You are welcome to contact me! Just fill in the form on this page.
 ---
 
 # Contact form
-*Your form input is being handled by formspree.io, they'll send it to me and I will come back to you as soon as possible.*
+
+<html>
+    <i>Your form input is being handled by formspree.io, they'll send it to me and I will come back to you as soon as possible.</i>
 <form action="https://formspree.io/marnix2813@hotmail.com" method="POST" />
     <label><p>Your name: (required)</p>
         <input type="text" name="name" required/></label>
@@ -17,3 +19,4 @@ description: You are welcome to contact me! Just fill in the form on this page.
             <BUTTON TYPE="reset">Cancel message</BUTTON>
                 <BUTTON TYPE="submit">Send message</BUTTON>
     </FORM>
+</html>
