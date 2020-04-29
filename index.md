@@ -33,4 +33,4 @@ Okay, my social media life has increased a lot and I have been in a sort of sear
 
 
 
-<div><hr><font color="red">This portfolio site is currently in progress. If you want to get notified when it's done, please fill in the <a href="https://marnix0810.github.io/contact/">contact formk</a>.</font></div>
+<div><hr><font color="red">This portfolio site is currently in progress. If you want to get notified when it's done, please fill in the <a href="https://marnix0810.github.io/contact/">contact form</a>.</font></div>
