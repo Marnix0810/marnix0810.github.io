@@ -11,6 +11,11 @@ Hello and welcome to my portfolio site, my name is Marnix Bloeiman, I am a (open
 
 Well, I am sixteen-year-old, I have the aspergers syndrome but do not let it ruin 
 
+### Some of the projects or creations I made
+- [The 0810-SPL software license](https://github.com/Marnix0810/0810-SPL)
+- The initial concept and code for [ECD7](https://software0810.wordpress.com/products/encryptcompressmydrive7/)
+- [MAASL](https://marnix0810.github.io/MAASL-scriptinglanguage/)
+
 
 
 ## Where to find me?
@@ -20,8 +25,8 @@ Okay, my social media life has increased a lot and I have been in a sort of sear
 - [My Twitter](https://twitter.com/Marnix_B)
 - [My blog](https://theblogbymb.wordpress.com/)
 - [My Instagram](https://www.instagram.com/Marnix0810/)
-- 
 
+<center><a href="https://marnix0810.github.io/contact/"><button>Contact me</button></a></center>
 
 
 
